@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSATest", "RSATest.csproj", "{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsaWinform", "RsaWinform\RsaWinform.csproj", "{18B48844-C72C-4012-9F19-64E0D72A7788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSATools", "RSATools\RSATools.csproj", "{D2F26101-14E6-4942-9B22-9153CC82FF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}.Debug|x86.ActiveCfg = Debug|x86
+		{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}.Debug|x86.Build.0 = Debug|x86
+		{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}.Release|Any CPU.ActiveCfg = Release|x86
+		{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}.Release|x86.ActiveCfg = Release|x86
+		{DA2CC842-DF95-4DEE-BECC-EB7F9971CC7A}.Release|x86.Build.0 = Release|x86
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Debug|x86.Build.0 = Debug|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Release|x86.ActiveCfg = Release|Any CPU
+		{18B48844-C72C-4012-9F19-64E0D72A7788}.Release|x86.Build.0 = Release|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Debug|x86.Build.0 = Debug|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2F26101-14E6-4942-9B22-9153CC82FF99}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
